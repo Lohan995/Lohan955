@@ -1,0 +1,28 @@
+
+    
+<header>ALURAFLIX</header>
+<h1>DEOLANE BEZERRA E LAVA JATO, SEMELHANÇA!</h1>
+<p>#deonaoéladra</p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GtNODNT8hfU?si=j80bjqlwdn4t4dFd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+</body>
+element.style {
+    background: black;
+    color: white;
+  }
+  body {
+  display: block;
+  margin: 8px;
+  <head>
+    <link rel="stylesheet" href="styles.css">
+    <title>Aluraflix</title>
+    <div>
+        <h1>DEOLANE BEZERRA E LAVA JATO,SEMELHANÇA!</h1>
+        <p>#deoéladra</p>
+        </div>
+        <html lang="pt-br">
+</html>
+</head>
+
+</body>
+  
